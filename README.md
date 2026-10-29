@@ -14,23 +14,16 @@ This repository provides a high‑level overview of my GlideCart Quantum Researc
 - Research notes that connect classical ML ideas with quantum‑era opportunities and constraints.
 - Early architecture sketches outlining how data, models, and user interfaces could interact.
 
-## Repository structure
+## Where to see this work
 
-- `/docs` – Research summaries, concept notes, and high‑level architecture descriptions.
-- `/design` – Wireframes, service design flows, and UX notes for GlideCart‑related experiences.
-- `/references` – Curated references or citations to external quantum / ML resources (where permitted).
-- `/roadmap` – Ideas and next steps for evolving this research into working prototypes.
+This repository is an overview. The work itself lives here:
 
-## How to view this work
-
-- Start in `/docs` to understand the overall problem space, goals, and constraints.
-- Explore `/design` to see how the user experience and system interactions are envisioned.
-- Use `/roadmap` to see how I structure future research and development work.
+- [GlideCart app overview](https://anelhenning2-collab.github.io/portfolio/apps/glidecart/): live concept page.
+- [GlideCart section of my GitHub profile](https://github.com/AnelHenning2-collab#-glidecart--autonomous-retail-vehicle): project summary and research labs.
 
 ## Tools and technologies
 
 - Concepts: Quantum‑inspired optimization, machine learning, pricing strategies.
-- Design tools: [Figma / Adobe XD / diagramming tools], as applicable.
 - Platforms: GitHub for versioning and documentation; implementation details may be in private repositories.
 
 ## Ethics, security, and usage
@@ -40,7 +33,6 @@ This repository is shared for educational and exploratory research purposes only
 Please respect the license and any security or privacy constraints described in:
 
 - `LICENSE` – Usage terms and restrictions.
-- `SECURITY.md` – Security considerations and responsible use guidelines (if provided).
 
 ## Private access and related work
 
@@ -48,6 +40,6 @@ More detailed research materials, experiments, and code prototypes are stored in
 
 If you have a legitimate research or review need for deeper access:
 
-1. Contact me at [your email] or reply to my portfolio approval email.
+1. Email me at logicalcoders@outlook.com or use the [contact page](https://anelhenning2-collab.github.io/contact-hub/).
 2. Mention this repository and the category name: “GlideCart Quantum Research”.
-3. Include your GitHub username so I can add you as a collaborator to the matching private repository (`glidecart-quantum-lab-private`).
+3. Include your GitHub username so I can add you as a collaborator to the matching private repository.
